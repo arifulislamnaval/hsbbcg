@@ -90,25 +90,6 @@ As **Project Coordinator and Naval Architect**, I was responsible for engineerin
 
 ---
 
-## 📷 Project Gallery
-
-<table align="center">
-<tr>
-
-<td align="center">
-<img src="./HSPBConstruction.jpg" width="450"><br>
-<b>Construction Phase</b>
-</td>
-
-<td align="center">
-<img src="./HSPBSeaTrial.jpg" width="450"><br>
-<b>Sea Trials & Delivery</b>
-</td>
-
-</tr>
-</table>
-
----
 
 ## 📬 Contact
 
