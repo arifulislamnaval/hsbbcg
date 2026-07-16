@@ -1,7 +1,7 @@
 # 🚤 High-Speed Patrol Boat (HSPB)
 
 <p align="center">
-  <img src="./hsbbcg.jpg" alt="High-Speed Patrol Boat" width="100%">
+  <img src="./hsbbcg.png" alt="High-Speed Patrol Boat" width="100%">
 </p>
 
 <h2 align="center">06 × High-Speed Patrol Boat (HSPB)</h2>
