@@ -8,32 +8,29 @@
 
 <p align="center">
 <b>Bangladesh Coast Guard (BCG)</b><br>
-Project Coordinator | Naval Architect | Structural Detailed Design | Stability Analysis | Class Compliance
+Senior Naval Architect | Stability Analysis | Design Review | Construction Support
 </p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Client-Bangladesh%20Coast%20Guard-0A4D8C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Delivered-2021-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Delivered-2022-orange?style=for-the-badge"/>
 </p>
 
 ---
 
 ## 📌 Project Summary
 
-Successfully delivered **06 High-Speed Patrol Boats** for the **Bangladesh Coast Guard** to strengthen maritime security, law enforcement, and search and rescue capabilities. The vessels feature a **deep-V hard chine hull form** optimized for high-speed performance, superior seakeeping, and offshore operations in challenging sea conditions.
+Successfully delivered **06 High-Speed Patrol Boats** for the **Bangladesh Coast Guard** to support **coastal patrol, maritime surveillance, search and rescue, anti-smuggling, and law enforcement operations**.
 
-Designed for continuous operation in **Sea State 4/5**, the boats support **anti-piracy, anti-smuggling, anti-drug trafficking, search and rescue, fisheries protection, disaster relief, Sundarbans patrol, and maritime surveillance** missions.
-
-As **Project Coordinator and Naval Architect**, I was responsible for engineering coordination, structural detailed design, hydrostatic and stability analysis, design review, construction support, and technical compliance throughout the project lifecycle.
+My responsibilities included **stability analysis, design review, engineering coordination, and construction support**, ensuring compliance with contractual requirements, classification rules, and project quality standards from design approval through vessel delivery.
 
 | **Client** | Bangladesh Coast Guard (BCG) |
 |:-----------|:-----------------------------|
 | **Vessel Type** | High-Speed Patrol Boat |
 | **Quantity** | 06 Boats |
-| **Role** | Project Coordinator & Naval Architect |
-| **Scope** | Structural Detailed Design • Stability Analysis • Engineering Coordination • Construction Support |
-| **Delivery** | 2021 |
+| **Scope** | Stability Analysis • Design Review • Engineering Coordination • Construction Support |
+| **Delivery** | 2022 |
 
 ---
 
@@ -42,60 +39,58 @@ As **Project Coordinator and Naval Architect**, I was responsible for engineerin
 | Parameter | Value |
 |:----------|------:|
 | Hull Type | **Deep-V Hard Chine** |
-| Length Overall (LOA) | **15.4 m** |
-| Breadth | **4.5 m** |
-| Maximum Draft | **1.1 m** |
-| Full Load Displacement | **15.1 tonnes** |
-| Standard Displacement | **14.0 tonnes** |
-| Light Displacement | **11.55 tonnes** |
-| Operational Capability | **Up to Sea State 5** |
+| Length Overall (LOA) | **15.40 m** |
+| Breadth | **4.50 m** |
+| Maximum Draft | **1.10 m** |
+| Maximum Speed | **30+ knots** |
 
 ---
 
 ## 👨‍💼 Engineering Contributions
 
-- Coordinated engineering, production, procurement, and construction activities throughout the project.
-- Prepared and reviewed **structural detailed drawings** in accordance with project specifications and applicable classification requirements.
-- Performed **hydrostatic calculations, stability analysis, weight estimation, and loading condition assessments** to ensure operational safety and compliance.
-- Reviewed hull structure, machinery foundation, outfitting, and production documentation for technical accuracy.
-- Coordinated multidisciplinary engineering activities between designers, production teams, client representatives, and equipment suppliers.
-- Supported construction by resolving technical issues, managing design revisions, and ensuring production quality.
-- Participated in inspections, harbour acceptance tests, sea trials, commissioning, and successful delivery of all six vessels.
-- Ensured compliance with contractual requirements, quality standards, and project schedules.
+- Performed hydrostatic calculations, intact stability analysis, weight estimation, and loading condition assessments using **Maxsurf**.
+- Reviewed the vessel design against contractual specifications, Bangladesh Coast Guard operational requirements, and applicable classification rules.
+- Verified structural, machinery, outfitting, piping, electrical, and production drawings for technical accuracy and constructability.
+- Coordinated engineering activities between designers, production teams, equipment suppliers, client representatives, and classification surveyors.
+- Managed engineering revisions and technical documentation throughout construction.
+- Provided engineering support during fabrication, inspections, harbour acceptance tests, sea trials, and final commissioning.
+- Resolved engineering issues during construction to maintain project quality, schedule, and technical compliance.
+- Contributed to the successful delivery of all six vessels meeting operational, safety, and contractual requirements.
 
 ---
 
 ## ⭐ Operational Capabilities
 
-- Anti-Piracy Operations
-- Anti-Smuggling & Anti-Drug Trafficking
-- Search & Rescue (SAR)
-- Fisheries Protection
 - Coastal & Offshore Patrol
-- Sundarbans Patrol
 - Maritime Surveillance
-- Disaster Relief Operations
+- Search & Rescue (SAR)
+- Anti-Piracy Operations
+- Anti-Smuggling Operations
+- Anti-Drug Trafficking
+- Fisheries Protection
+- Disaster Response
 
 ---
 
 ## ⭐ Technical Expertise Demonstrated
 
-**High-Speed Craft Design • Structural Detailed Design • Hydrostatics & Stability • Weight Control • Structural Engineering • Engineering Coordination • Design Review • Production Engineering • Construction Support • Technical Documentation • Project Management • Quality Assurance • Commissioning**
+**High-Speed Craft Engineering • Hydrostatics • Stability Analysis • Weight Control • Design Review • Engineering Coordination • Construction Support • Technical Documentation • Classification Compliance • Harbour Acceptance Tests • Sea Trials • Commissioning**
 
 ---
 
 ## 💻 Engineering Software
 
-**AVEVA Marine • AutoCAD • Maxsurf (Hydrostatics & Stability) • Rhino3D • ANSYS • FastNEST**
+**Maxsurf • AVEVA Marine • AutoCAD • Rhino3D • ANSYS • FastNEST**
 
 ---
-
 
 ## 📬 Contact
 
 **Md. Ariful Islam**
 
-**Senior Naval Architect | Ship Design | Structural Engineering | Stability Analysis | Project Management | Classification Compliance**
+**Senior Naval Architect & Marine Engineer**
+
+*Ship Design • Structural Engineering • Stability Analysis • Design Management • Classification Compliance*
 
 📧 **ariful.buet1985@gmail.com**
 
@@ -104,5 +99,5 @@ As **Project Coordinator and Naval Architect**, I was responsible for engineerin
 ---
 
 <p align="center">
-<b>Delivering Safe, High-Performance, and Mission-Ready Maritime Engineering Solutions.</b>
+<b>Delivering Safe, Efficient, and Mission-Ready Engineering Solutions for Modern Maritime Operations.</b>
 </p>
